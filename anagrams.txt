@@ -1,0 +1,2 @@
+"abcde", "dbxxxc", "abcde", "abcdc", "abcdefgh", "xxxdddxx"
+"adcba", "dxcxbx", "aaaaa", "abcd", "abcdefgg", "xxxdddab"
